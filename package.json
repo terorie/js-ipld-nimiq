@@ -1,0 +1,14 @@
+{
+  "name": "ipld-nimiq",
+  "version": "0.0.1",
+  "description": "JavaScript implementation of Nimiq IPLD formats",
+  "author": "Richard Patel <richxpatel@gmail.com>",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@nimiq/core": "^1.4.1",
+    "async": "^2.6.1",
+    "cids": "^0.5.7",
+    "multihashes": "^0.4.14"
+  }
+}
